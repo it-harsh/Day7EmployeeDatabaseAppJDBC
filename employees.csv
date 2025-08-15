@@ -1,0 +1,4 @@
+ID,Name,Position,Salary,Username,Password,Role
+2,John Doe,Developer,50010.0,john,john123,EMPLOYEE
+3,Mary Jane,Designer,45000.0,mary,mary123,ADMIN
+1,System Admin,Administrator,0.0,admin,admin123,ADMIN
